@@ -22,3 +22,9 @@ Cuando estemos en la pagina principal tenemos que clicar en administración del 
 
 Cuando estemos en este apartado buscamos la siguiente seccióm
 ![](https://github.com/GABRIELL410/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20de%20pantalla%202026-04-16%20115651.png)
+
+# 1.3 Cambio de Idioma 
+Cuando estemos en el apartado de "administración del sitio" buscamos el apartado de idiomas y clicamos en paquete de idiomas
+![](https://github.com/GABRIELL410/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20de%20pantalla%202026-04-16%20121919.png)
+
+Cuando estemos aqui seleccionamos el idioma que nosotros queramos
