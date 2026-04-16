@@ -37,4 +37,6 @@ Estos son algunos de los idiomas que podemos escoger pero hay muchos más para p
 # 1.4 Seguridad
 Para este paso primero desde el apartado de administracion del sitio buscamos donode ponga seguridad y entramos en "Políticas de seguridad del sitio"
 
+![](https://github.com/GABRIELL410/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20de%20pantalla%202026-04-16%20123825.png)
+
 
