@@ -17,6 +17,8 @@ Arriba a la derecha de la pagina principal sale nuestras inciales del nombre que
 Aqui bajamos y nos dejara cambiar y editar lo que queramos asi que cambiamos el correo y la contraseña para seguir haciendo los siguientes pasos.
 
 # 1.2 Configuración del sitio
-Cuando estemos en la pagina principal tenemos que clicar en administración del sitio, que aparece arriba en el centro
+Cuando estemos en la pagina principal tenemos que clicar en administración del sitio, que aparece arriba en el centro que pone "administración del sitio" y nos llevara a una pagina con diferentes parametros 
 ![](https://github.com/GABRIELL410/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20de%20pantalla%20de%202026-04-10%2014-26-50.png)
 
+Cuando estemos en este apartado buscamos la siguiente seccióm
+![](https://github.com/GABRIELL410/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20de%20pantalla%202026-04-16%20115651.png)
