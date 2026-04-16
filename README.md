@@ -30,3 +30,6 @@ Cuando estemos en el apartado de "administración del sitio" buscamos el apartad
 
 Cuando estemos aqui seleccionamos el idioma que nosotros queramos
 
+![](https://github.com/GABRIELL410/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20de%20pantalla%202026-04-16%20122840.png)
+
+Estos son algunos de los idiomas que podemos escoger pero hay muchos más para poder seleccionar
