@@ -58,4 +58,6 @@ Aquí tenemos que rellenar esto como queramos yo creare 2 cursos uno que se llam
 
 ![](https://github.com/GABRIELL410/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20de%20pantalla%20de%202026-04-17%2014-11-22.png)
 
-Hacemos 2 clicks arriba de 
+Hacemos 2 clicks arriba de nueva sección y cambiamos el nombre por "Tema 1, Tema 2, Tema 3" y asi hacemos lo mismo con la clase B
+
+
