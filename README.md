@@ -44,3 +44,8 @@ Y cuando entremos bajamos y buscamos donde pongan las opciones para poder cambia
 ![](https://github.com/GABRIELL410/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20de%20pantalla%202026-04-16%20124046.png)
 
 Seleccionamos la longitud de la contraseña que queramos y las minúsculas y mayúsculas que queramos que salgan en la contraseña
+
+# 2. Creación de cursos
+
+
+
