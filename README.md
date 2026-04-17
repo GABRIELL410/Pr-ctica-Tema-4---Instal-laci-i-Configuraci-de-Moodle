@@ -46,6 +46,13 @@ Y cuando entremos bajamos y buscamos donde pongan las opciones para poder cambia
 Seleccionamos la longitud de la contraseña que queramos y las minúsculas y mayúsculas que queramos que salgan en la contraseña
 
 # 2. Creación de cursos
+En la página principal de nuestro moddle aparecera lo sieguiente
+
+![](https://github.com/GABRIELL410/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20de%20pantalla%20de%202026-04-17%2013-59-03.png)
+
+Clicamos donde aparece "crear un nuevo curso" y aparecera como un tipo de formulario para rellenar 
+
+
 
 
 
