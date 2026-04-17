@@ -52,7 +52,9 @@ En la página principal de nuestro moddle aparecera lo sieguiente
 
 Clicamos donde aparece "crear un nuevo curso" y aparecera como un tipo de formulario para rellenar 
 
+![](https://github.com/GABRIELL410/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20de%20pantalla%20de%202026-04-17%2014-03-48.png)
 
+Aquí tenemos que rellenar esto como queramos yo creare 2 cursos uno que se llame Curso A y otro Curso B y a cada uno le añadiremos 3 temas
 
 
 
