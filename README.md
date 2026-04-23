@@ -88,10 +88,13 @@ Para eliminar usuarios, tenemos que entrar en usuarios> acciones de usuarios mas
 
 
 # 4 Matriculación de usuarios a los cursos
+Para este paso nos vamos a curso el que quieras cambiar, le das a participantes y te aparecera esto
 
+![](https://github.com/GABRIELL410/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20de%20pantalla%202026-04-23%20142418.png)
 
-
+Luego de esto tenemos que desactivar la matriculación manual y quitamos todo y aplicamos los filtros 
 
 # 4.1. Configuració de mètodes d'inscripció
+
 
 # 4.2. Verificació
