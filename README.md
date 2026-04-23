@@ -90,3 +90,8 @@ Para eliminar usuarios, tenemos que entrar en usuarios> acciones de usuarios mas
 # 4 Matriculación de usuarios a los cursos
 
 
+
+
+# 4.1. Configuració de mètodes d'inscripció
+
+# 4.2. Verificació
