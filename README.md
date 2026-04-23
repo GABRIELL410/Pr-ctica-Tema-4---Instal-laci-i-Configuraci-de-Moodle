@@ -82,6 +82,11 @@ Para la creación masiva tenemos que entrar a un bloc de notas, y poner el nombr
 
 ![](https://github.com/GABRIELL410/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20de%20pantalla%202026-04-23%20140808.png)
 
+Para eliminar usuarios, tenemos que entrar en usuarios> acciones de usuarios masivas. Aparecera este apartado y seleccionamos el usuario que queremos eliminar y lo borramos.
 
+![](https://github.com/GABRIELL410/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20de%20pantalla%202026-04-23%20141259.png)
+
+
+# 4 Matriculación de usuarios a los cursos
 
 
