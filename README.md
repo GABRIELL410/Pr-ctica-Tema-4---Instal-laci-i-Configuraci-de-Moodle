@@ -72,8 +72,8 @@ Cuando estemos aqui clicamos el símbolo de más y  añadimos actividades o PDFs
 
 Nos dirigimos al apartado de arriba que pone "usuarios" y creamos un usuario llamado Bob con autenticación manual.
 
-
-
 ![](https://github.com/GABRIELL410/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20de%20pantalla%202026-04-23%20133313.png)
 
 completamos poniendo el nombre de la tarea, una pequeña descripción y algun documento o PDFs adjunto y le damos a guardar y se quedara listo para hacer, también pudes poner una fecha limite.
+
+
