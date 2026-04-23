@@ -61,3 +61,7 @@ Aquí tenemos que rellenar esto como queramos yo creare 2 cursos uno que se llam
 Hacemos 2 clicks arriba de nueva sección y cambiamos el nombre por "Tema 1, Tema 2, Tema 3" y asi hacemos con la clase B pero esta vez con el tema B creamos 5 temas
 
 ![](https://github.com/GABRIELL410/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20de%20pantalla%20de%202026-04-17%2014-19-01.png)
+
+# 2.1 Agregar material
+Primero clicamos el botón de arriba a la derecha que pone modo de edición y cambiamos el nombre de algun o de todos los temas 
+
