@@ -78,6 +78,9 @@ Nos dirigimos al apartado de arriba que pone "usuarios" y creamos un usuario lla
 y rellenamos todo con el nombre Bob, dirección de correo, y contraseña
 
 # 3.1 Creación masiva
+Para la creación masiva tenemos que entrar a un bloc de notas, y poner el nombre del usuario, contraseña, primer nombre, ultimo nombre , mail y contraseña, puedes hacerlo desde un excel y una vez hecho esto, lo descargas como CSV y vas a administración del sitio > usuarios > subir usuarios. Clicas donde pone subir archivo y pones el excel que habías descargado
+
+![](https://github.com/GABRIELL410/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20de%20pantalla%202026-04-23%20140808.png)
 
 
 
