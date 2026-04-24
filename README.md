@@ -120,7 +120,12 @@ Para entrar al curso B si que hace falta iniciar sesión
 
 # 5 Personalización del sitió
 
-Para la personalización del sitio tenemos que ir a administración del sitio y luego a la derecha del todo clicamos en más y luego en apariencia y entramos en el apartado de temas y seleccionamos el que queramos
+Para la personalización del sitio tenemos que ir a administración del sitio y luego a la derecha del todo clicamos en más y luego en apariencia y entramos en el apartado de temas y seleccionamos el que queramos.
+
+![](https://github.com/GABRIELL410/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20de%20pantalla%202026-04-24%20141856.png)
+
+para agregar el logotipo tenemos que ir a apariencia nuevamente y nos aparecera un cuadro para insertar nuestro logotipo.
+
 
 
 
