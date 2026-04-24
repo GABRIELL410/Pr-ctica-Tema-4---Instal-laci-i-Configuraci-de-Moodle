@@ -88,7 +88,9 @@ Para eliminar usuarios, tenemos que entrar en usuarios> acciones de usuarios mas
 
 
 # 4 Matriculación de usuarios a los cursos
-Para quitar cualquier metodo de inscripción, nos dirijimos a la página principal, leugo entramos a los cursos en este caso al A, 
+Para quitar cualquier metodo de inscripción, nos dirijimos a la página principal, leugo entramos a los cursos en este caso al A, y arriba a la derecha ahi un apartado que pone participantes entras ahi, y aparecera un letrero con letras en negreta que pone "Métodos de matriculación" y desplegamos las opciones que hay y clicamos en metodos de matriculación, y en la derecha aparecen los diferentes métodos, y hay un icono de un ojo que tenemos que deshabilitarla para que cualquiera tenga acceso.
+
+![](https://github.com/GABRIELL410/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20de%20pantalla%202026-04-24%20131956.png)
 
 # 4.1. Configuració de mètodes d'inscripció
 
