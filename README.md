@@ -92,6 +92,8 @@ Para quitar cualquier metodo de inscripción, nos dirijimos a la página princip
 
 ![](https://github.com/GABRIELL410/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20de%20pantalla%202026-04-24%20131956.png)
 
+Para el curso B tenemos que hacer lo contrario activar la matriculación manual
+
 # 4.1. Configuració de mètodes d'inscripció
 
 
