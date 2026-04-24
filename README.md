@@ -111,3 +111,8 @@ y ponemos a bob como profesor y a los demás como alumnos
 # 4.2. Verificació
 
 para entrar al curso A no hace falta iniciar sesión
+
+![](https://github.com/GABRIELL410/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20de%20pantalla%202026-04-24%20140813.png)
+
+Para entrar al curso B si que hace falta iniciar sesión
+
