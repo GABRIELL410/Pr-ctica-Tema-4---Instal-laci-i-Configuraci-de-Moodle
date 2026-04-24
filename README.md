@@ -97,6 +97,11 @@ Para el curso B tenemos que hacer lo contrario activar la matriculación manual
 
 y luego matriculamos al usuario Bob como profesor y el resto de alumnos como usuarios, para esto tenemos que ir a participantes y usuarios matriculados y clicamos en matricular usuarios.
 
+![](https://github.com/GABRIELL410/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20de%20pantalla%202026-04-24%20134636.png)
+
+luego de esto nos dejara matricular a los alumnos que queramos y podemos seleccionar su rol (alumno, profesor..)
+
+
 # 4.1. Configuració de mètodes d'inscripció
 
 
