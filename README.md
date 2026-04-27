@@ -126,7 +126,14 @@ Para la personalización del sitio tenemos que ir a administración del sitio y 
 
 para agregar el logotipo tenemos que ir a apariencia nuevamente y nos aparecera un cuadro para insertar nuestro logotipo.
 
+![](https://github.com/GABRIELL410/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20de%20pantalla%202026-04-27%20183716.png)
 
+En mi caso he escogido el logotipo de cocacola, pero ustedes pueden escoger el logotipo que ustedes quieran.
+
+
+# 6 Creación de contenidos y actividades
+
+Para el curso A lo que tenemos que hacer es asignar a 1 profesor y matricular a los alumnos.
 
 
 
