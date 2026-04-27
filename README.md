@@ -135,5 +135,7 @@ En mi caso he escogido el logotipo de cocacola, pero ustedes pueden escoger el l
 
 Para el curso A lo que tenemos que hacer es asignar a 1 profesor y matricular a los alumnos.
 
+![](https://github.com/GABRIELL410/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20de%20pantalla%202026-04-27%20185332.png)
 
+Yo me asigne como profesor como se ve en la imagen y a los demas alumnos los matricule y les asigne el rol de estudiante
 
