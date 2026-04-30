@@ -172,3 +172,11 @@ Para crear una insígnia tenemos que ir a administración del sitio y ir al apar
 # 8 Qüestionaris
 Para crear el banco de preguntas, entramos al curso en el que queremos y a la derecha del todo le damos a más y seleccionemos la opción de banco de preguntas.
 
+![](https://github.com/GABRIELL410/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20de%20pantalla%202026-04-30%20183400.png)
+
+Puse varias preguntas y las he organizado por categorias, por último he realizado la prueba con una cuenta alumno, y luego comprobamos la calificaciones con el usuario profesor.
+
+# 9 Importació i exportació de cursos
+Exportamos una copia de seguridad del curso para esto, desde administración del curso y luego le damos a copias.
+
+
