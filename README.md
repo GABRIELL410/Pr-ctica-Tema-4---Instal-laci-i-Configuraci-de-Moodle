@@ -152,4 +152,5 @@ para clonar la información tenemos que ir a mis cursos luego clicamos en el cur
 
 # 7 Calificaciones e insignias
 
-Primero entramos con una cuenta de alumno para resolver las actividades
+Primero entramos con una cuenta de alumno para resolver las actividades, y entregar los deberes en formato PDF.
+
