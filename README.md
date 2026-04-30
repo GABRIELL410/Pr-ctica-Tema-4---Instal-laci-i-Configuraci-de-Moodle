@@ -155,3 +155,7 @@ para clonar la información tenemos que ir a mis cursos luego clicamos en el cur
 Primero entramos con una cuenta de alumno para resolver las actividades, y entregar los deberes en formato PDF.
 
 ![](https://github.com/GABRIELL410/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20de%20pantalla%202026-04-30%20174706.png)
+
+Luego tenemos que desde la cuenta del admin (profesor),he de ponerle nota a la tasca entregado,pero hay que configurar el calificador para obtener una nota automàtica.
+
+
