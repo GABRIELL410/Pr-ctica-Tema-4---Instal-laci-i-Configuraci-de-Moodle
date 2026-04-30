@@ -139,3 +139,10 @@ Para el curso A lo que tenemos que hacer es asignar a 1 profesor y matricular a 
 
 Yo me asigne como profesor como se ve en la imagen y a los demas alumnos los matricule y les asigne el rol de estudiante
 
+Lo siguiente era crear una tasca con fecha de entrega y un recurso
+
+![](https://github.com/GABRIELL410/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20desde%202026-04-30%2012-38-07.png)
+
+# 6.1 Clonar información
+
+
