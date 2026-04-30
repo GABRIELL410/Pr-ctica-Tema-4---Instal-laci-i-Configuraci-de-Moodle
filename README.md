@@ -183,4 +183,9 @@ Exportamos una copia de seguridad del curso para esto, desde administración del
 
 Y tenemos que esperar un rato a que se haga la copia de seguridad
 
-![](https://github.com/GABRIELL410/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/edit/main/README.md)
+![](https://github.com/GABRIELL410/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20de%20pantalla%202026-04-30%20191654.png)
+
+Por último enviamos el fichero a un compañero e importamos a otro curso de su moodle.
+
+# 10 Seguridad
+En este paso tenemos que banear una IP y aplicar una politica dde seguridad
