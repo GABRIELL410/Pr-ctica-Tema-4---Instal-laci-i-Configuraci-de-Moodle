@@ -168,3 +168,7 @@ Y luego la nota se pondra en la tasca que califiquemos
 Para crear una insígnia tenemos que ir a administración del sitio y ir al apartado de insígneas para crear una, y luego otorgarla a un alumno en mi caso al alumno cinco
 
 ![](https://github.com/GABRIELL410/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20de%20pantalla%202026-04-30%20182153.png)
+
+# 8 Qüestionaris
+Para crear el banco de preguntas, entramos al curso en el que queremos y a la derecha del todo le damos a más y seleccionemos la opción de banco de preguntas.
+
