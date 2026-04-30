@@ -200,3 +200,7 @@ Y ya estara la IP bloqueada.
 
 # 10.1 Politica de seguridad
 Para esto tenemos que entrar a la de abajo
+
+![](https://github.com/GABRIELL410/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20de%20pantalla%202026-04-30%20193018.png)
+
+Cuando entras aquí 
