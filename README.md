@@ -162,5 +162,5 @@ Luego tenemos que desde la cuenta del admin (profesor),he de ponerle nota a la t
 
 Y luego la nota se pondra en la tasca que califiquemos 
 
-
+![](https://github.com/GABRIELL410/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20de%20pantalla%202026-04-30%20180652.png)
 
