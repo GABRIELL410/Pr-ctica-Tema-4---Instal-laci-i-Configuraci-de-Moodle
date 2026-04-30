@@ -209,3 +209,4 @@ Yo he revisado todo lo que estaba activado y lo unico que hize fue activar la po
 
 # Justificación
 
+La política de contraseñas en moodle es importante porque ayuda a que las cuentas sean más seguras. Ya que obliga a usar contraseñas más completas y esto hace que alguien pueda entrar sin permiso. Tener esta opción activada protege la información de los cursos y de nuestros usuarios.
