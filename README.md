@@ -148,3 +148,4 @@ Lo siguiente era crear una tasca con fecha de entrega y un recurso
 para clonar la información tenemos que ir a mis cursos luego clicamos en el curso que queremos importar y le damos a más luego reutilización del curso y nos apareceran diferentes opciones, nosotros clicamos en importar y luego en importar y ya lo tendríamos.
 
 
+![](https://github.com/GABRIELL410/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20desde%202026-04-30%2012-58-02.png)
