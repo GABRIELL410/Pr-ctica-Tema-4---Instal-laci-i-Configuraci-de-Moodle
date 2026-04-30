@@ -149,3 +149,7 @@ para clonar la información tenemos que ir a mis cursos luego clicamos en el cur
 
 
 ![](https://github.com/GABRIELL410/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20desde%202026-04-30%2012-58-02.png)
+
+# 7 Calificaciones e insignias
+
+Primero entramos con una cuenta de alumno para resolver las actividades
