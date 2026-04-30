@@ -203,4 +203,6 @@ Para esto tenemos que entrar a la de abajo
 
 ![](https://github.com/GABRIELL410/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20de%20pantalla%202026-04-30%20193018.png)
 
-Cuando entras aquí 
+Yo he revisado todo lo que estaba activado y lo unico que hize fue activar la politica de contraseñas, ouedes modificar la longitud de la contraseña , digitos... 
+
+
