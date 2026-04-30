@@ -189,3 +189,7 @@ Por último enviamos el fichero a un compañero e importamos a otro curso de su 
 
 # 10 Seguridad
 En este paso tenemos que banear una IP y aplicar una politica dde seguridad
+
+![](https://github.com/GABRIELL410/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20de%20pantalla%202026-04-30%20192508.png)
+
+Cuando entremos a este apartado, tenemos que rellenar el cuadro donde pone Lista de Ips Bloqueadas y ponemos la IP que queremos bloquear.
