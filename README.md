@@ -180,3 +180,7 @@ Puse varias preguntas y las he organizado por categorias, por último he realiza
 Exportamos una copia de seguridad del curso para esto, desde administración del curso y luego le damos a copias.
 
 ![](https://github.com/GABRIELL410/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/blob/main/Captura%20de%20pantalla%202026-04-30%20184931.png)
+
+Y tenemos que esperar un rato a que se haga la copia de seguridad
+
+![](https://github.com/GABRIELL410/Pr-ctica-Tema-4---Instal-laci-i-Configuraci-de-Moodle/edit/main/README.md)
